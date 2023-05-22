@@ -1,0 +1,23 @@
+{
+  "__________________________ERROR_MESSAGE_VALIDATE": "ERROR MESSAGE VALIDATE",
+  "emailErrorMessage": "不正なメールアドレスです",
+  "usernameErrorMessage": "ユーザー名を入力してください。",
+  "passwordErrorMessage": "ユーザー名を入力してください。",
+
+  "__________________________BUTTON": "BUTTON",
+  "btnLogin": "ログイン",
+  "btnLogout": "ログアウト",
+  "btnYes": "はい",
+  "btnNo": "いいえ",
+
+  "__________________________PLACEHOLDER": "PLACEHOLDER",
+  "emailPlaceholder": "メールアドレス",
+  "usernamePlaceholder": "ユーザー名",
+  "passwordPlaceholder": "パスワード",
+
+  "__________________________LABEL": "LABEL",
+  "confirmLogout": "ログアウトしますか？",
+  "numberOfPointsAwarded": "ポイント付与数",
+  "userSearch": "ユーザー検索",
+  "grantingPoints": "ポイント付与"
+}

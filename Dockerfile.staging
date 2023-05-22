@@ -1,0 +1,9 @@
+# 1. Build
+FROM node:18.15-alpine
+WORKDIR /app
+COPY package*.json ./
+RUN yarn install
+COPY . .
+
+EXPOSE 4002
+CMD [ "yarn", "staging"]

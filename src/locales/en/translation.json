@@ -1,0 +1,23 @@
+{
+  "__________________________ERROR_MESSAGE_VALIDATE": "ERROR MESSAGE VALIDATE",
+  "emailErrorMessage": "Invalid email address!",
+  "usernameErrorMessage": "Please input your username!",
+  "passwordErrorMessage": "Please input your password!",
+
+  "__________________________BUTTON": "BUTTON",
+  "btnLogin": "Login",
+  "btnLogout": "Logout",
+  "btnYes": "Yes",
+  "btnNo": "No",
+
+  "__________________________PLACEHOLDER": "PLACEHOLDER",
+  "emailPlaceholder": "Email",
+  "usernamePlaceholder": "Email",
+  "passwordPlaceholder": "Password",
+
+  "__________________________LABEL": "LABEL",
+  "confirmLogout": "Do you want to sign out?",
+  "numberOfPointsAwarded": "Number of points awarded",
+  "userSearch": "User search",
+  "grantingPoints": "Granting points"
+}
